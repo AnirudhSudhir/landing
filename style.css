@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.header,
+.content1,
+.footer {
+    background-color: #1f2937;
+    color: white;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
